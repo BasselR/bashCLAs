@@ -7,7 +7,10 @@ This script has 2 functionalities.
 
 It can either delete a file in your current directory, or it can create a new file and fill it with a specified number of lines of some provided text.
 
-Usage: script2 -?
+Usage: 
+
+
+    script2 -?
 
 
     or
